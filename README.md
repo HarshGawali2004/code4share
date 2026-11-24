@@ -4,8 +4,8 @@ Real-time code and text sharing platform over WebRTC with in-memory relay fallba
 
 ## Project Structure
 
-- `apps/web`: React (Vite) PWA with CodeMirror 6 and Yjs.
-- `apps/server`: Node.js signaling, fallback relay, plan checks, and billing webhooks.
+- `frontend/`: React (Vite) PWA with CodeMirror 6 and Yjs.
+- `backend/`: Node.js signaling, fallback relay, plan checks, and billing webhooks.
 - `packages/shared`: Shared constants, validation, and room utilities.
 - `supabase/`: Database migrations, seed data, and storage configuration.
 - `infra/`: Docker and TURN deployment configuration.

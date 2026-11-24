@@ -2,7 +2,8 @@
   "name": "code4share",
   "private": true,
   "workspaces": [
-    "apps/*",
+    "frontend",
+    "backend",
     "packages/*"
   ]
 }
