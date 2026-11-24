@@ -1,0 +1,8 @@
+{
+  "name": "code4share",
+  "private": true,
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ]
+}
