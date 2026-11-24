@@ -15,5 +15,5 @@ Real-time code and text sharing platform over WebRTC with in-memory relay fallba
 
 Prerequisites: Node.js 20+, npm 10+.
 
-1. Copy `.env.example` to `.env`.
+1. Copy `frontend/.env.example` and `backend/.env.example` to their respective `.env` files.
 2. Dependencies and setup instructions will be configured in future steps.
